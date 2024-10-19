@@ -23,6 +23,7 @@ your_project/
 ├── app.py             # Main Flask application
 └── templates/
     └── index.html     # HTML file containing the UI
+```
 
 ## Setup Instructions
 
