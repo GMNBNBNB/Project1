@@ -36,8 +36,8 @@ your_project/
 1. Clone the repository (or download the project files):
 
     ```bash
-    git clone https://github.com/yourusername/product-management-flask.git
-    cd product-management-flask
+    git clone https://github.com/GMNBNBNB/Project1.git
+    cd Project1
     ```
 
 2. Install Flask:
@@ -51,7 +51,7 @@ your_project/
 1. Start the Flask app:
 
     ```bash
-    python app.py
+    python main.py
     ```
 
 2. Open your web browser and go to `http://127.0.0.1:5000/` to interact with the application.
